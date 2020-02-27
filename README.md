@@ -15,4 +15,4 @@ Programs:
 8. Implement a matlab program to perform mean/avg filter over the gray image.
 9. Perform low pass and high pass filter over the gray image.
 10. Perform edge detection technique over the gray image.
-*11. Implementation of image processing application such as image fusion and image encryption.
+11. Implementation of image processing application such as image fusion and image encryption.(APPLICATION)
