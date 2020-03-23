@@ -1,4 +1,4 @@
-X = imread("/home/geu/Desktop/a.jpeg");
+X = imread("/home/geu/Desktop/img.jpeg");
 x = rgb2gray(X);
 [r c] = size(x);
 L=255;
